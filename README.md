@@ -30,11 +30,11 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I got stuck on Challenge 2 trying to figure out the line for the loop.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Pranayini Singh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
